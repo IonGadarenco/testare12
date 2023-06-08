@@ -1,0 +1,10 @@
+.patrat{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    float: left;
+    margin: 1px;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
