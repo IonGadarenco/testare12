@@ -22,4 +22,8 @@ but.addEventListener("click", () => {
     body.append(patrat);
     patrat.textContent = arrDima[count];
     count++;
+
+    patrat.addEventListener("click", () => {
+        patrat.style.display = "none";
+    });
 });
